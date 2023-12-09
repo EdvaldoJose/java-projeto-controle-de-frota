@@ -27,7 +27,7 @@ public class Application {
     v2.listaAbastecimentos();
     v3.listaAbastecimentos();
 
-//    System.out.println("Hello and welcome!");
+    System.out.println("Hello and welcome!");
 
   }
 }
